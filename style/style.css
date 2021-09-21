@@ -18,6 +18,7 @@ body {
 .header {
   justify-content: center;
   display: flex;
+  overflow: hidden;
   /* grid-template-columns: repeat(3, 1fr); */
 }
 
