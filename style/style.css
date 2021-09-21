@@ -102,6 +102,7 @@ body {
   flex-direction: column;
   grid-column: 2;
   width: 100%;
+  overflow: hidden;
 }
 
 .contentb {
